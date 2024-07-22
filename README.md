@@ -8,6 +8,10 @@
 preview in mobile <img src="">
 
 <h3>Technologies and tools </h3>
-<p>The tool that have i have used in creating this portfolio website are Html,Css,javascript,TailwindCss,Bootstrap</p>
+<p>The tool that have i have used in creating this portfolio website are
+ - Html,<br/>
+ - Css,<br/>
+ - javascript,<br/>
+ - Bootstrap<br/></p>
 
 
